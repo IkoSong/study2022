@@ -1,0 +1,6 @@
+# Project exclude paths
+/Dubbo-module/user-rpc-service-api/target/
+/Dubbo-module/user-rpc-service-consumer/target/
+/Dubbo-module/user-rpc-service-provider/target/
+/java-source-code/target/
+/out/
